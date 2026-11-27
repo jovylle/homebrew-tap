@@ -1,6 +1,6 @@
 cask "menubarwindows@beta" do
-  version "0.1.1-beta.7"
-  sha256 "fef635d708e1a14ba453231fc6e00520932c757ac9418a9b8cfb59e61877383f"
+  version "0.1.1-beta.8"
+  sha256 "fa032a8415a8ae4f0323a8c251b5764c1278a1d4d98bfde8e2dd949f46828583"
 
   url "https://github.com/jovylle/menubar-windows/releases/download/v#{version}/MenubarWindows-#{version}.dmg"
   name "MenubarWindows"
